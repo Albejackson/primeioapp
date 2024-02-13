@@ -1,0 +1,27 @@
+.containerButton {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.button {
+    width: 150px;
+    height: 50px;
+    background-color: yellowgreen;
+    color: black;
+    border: none;
+    border-radius: 8px;
+}
+
+.disableButton {
+    width: 150px;
+    height: 50px;
+    background-color: goldenrod;
+    color: white;
+    border: none;
+    border-radius: 8px;
+}
+
+span {
+    display: block;
+}
